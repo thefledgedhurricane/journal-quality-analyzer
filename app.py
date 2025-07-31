@@ -205,7 +205,7 @@ def main():
         st.markdown("---")
         st.markdown("""
         **© 2025 Ihababdelbasset ANNAKI**  
-        📧 Contact: [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma)  
+        📧 Contact: [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma) | [iannaki.developer@gmail.com](mailto:iannaki.developer@gmail.com)  
         🤝 Open Source - Available for collaboration  
         💡 Contributions welcome on GitHub
         """)

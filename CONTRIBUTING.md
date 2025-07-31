@@ -133,8 +133,7 @@ docs(readme): update installation instructions
 ## 📧 Getting Help
 
 **Project Maintainer**: Ihababdelbasset ANNAKI  
-**Email**: [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma)  
-**Institution**: Université Mohammed Premier (UMP)
+**Email**: [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma) | [iannaki.developer@gmail.com](mailto:iannaki.developer@gmail.com)
 
 **Communication Channels**:
 - 💬 [GitHub Discussions](../../discussions) - General questions
@@ -167,7 +166,7 @@ We are committed to making participation in this project a harassment-free exper
 - Other conduct which could reasonably be considered inappropriate
 
 ### Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainer at [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainer at [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma) or [iannaki.developer@gmail.com](mailto:iannaki.developer@gmail.com).
 
 ---
 

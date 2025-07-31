@@ -87,8 +87,7 @@ def check_scopus_indexing(title: str, api_key: str) -> bool:
 
 If you have privacy concerns or questions:
 
-- **Email**: i.annaki@ump.ac.ma
-- **Institution**: Université Mohammed Premier, Morocco
+- **Email**: i.annaki@ump.ac.ma | iannaki.developer@gmail.com
 - **GitHub Issues**: Report security concerns via repository issues
 - **Code Review**: Examine the source code directly
 
