@@ -207,7 +207,7 @@ def main():
         **© 2025 Ihababdelbasset ANNAKI**  
         📧 Contact: [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma) | [iannaki.developer@gmail.com](mailto:iannaki.developer@gmail.com)  
         🤝 Open Source - Available for collaboration  
-        💡 Contributions welcome on GitHub
+        💡 Contributions welcome on [GitHub](https://github.com/thefledgedhurricane/journal-quality-analyzer)
         """)
     
     # Load data
