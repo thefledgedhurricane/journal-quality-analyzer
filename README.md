@@ -45,14 +45,14 @@ A comprehensive Streamlit application for analyzing academic journal quality usi
 ### Elsevier/Scopus API Key
 1. Visit [Elsevier Developer Portal](https://dev.elsevier.com/)
 2. Create an account and apply for API access
-3. **Free tier**: 5,000 requests/week
+3. **Free tier**: Available with usage quotas
 4. Use the key in the app's "Elsevier API Key" field
 
 ### Google Gemini API Key
 1. Visit [Google AI Studio](https://aistudio.google.com/)
 2. Create a new project
 3. Generate an API key
-4. **Free tier**: 60 requests/minute
+4. **Free tier**: Available with daily request limits
 5. Use the key in the app's "Gemini API Key" field
 
 ## 🌐 Deployment Options

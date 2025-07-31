@@ -166,12 +166,12 @@ def main():
         **Elsevier/Scopus API Key:**
         - Visit: [Elsevier Developer Portal](https://dev.elsevier.com/)
         - Create account → Apply for API key
-        - Free tier: 5,000 requests/week
+        - Free tier available with usage quotas
         
         **Google Gemini API Key:**
         - Visit: [Google AI Studio](https://aistudio.google.com/)
         - Create project → Generate API key
-        - Free tier: 60 requests/minute
+        - Free tier available with daily limits
         """)        
         
         st.subheader("🔒 Privacy & Security")
