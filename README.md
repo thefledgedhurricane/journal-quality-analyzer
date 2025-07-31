@@ -278,6 +278,33 @@ We appreciate all contributors! Your name will be added here once you make your 
 
 © 2025 Ihababdelbasset ANNAKI. This project is open source and available under the [MIT License](LICENSE).
 
+## 📚 Citation
+
+If you use this tool in your research or academic work, please consider citing it:
+
+### **APA Style:**
+```
+Annaki, I. (2025). Journal Quality Analyzer: A comprehensive tool for analyzing academic journal quality using multiple data sources and AI-powered insights. GitHub. https://github.com/thefledgedhurricane/journal-quality-analyzer
+```
+
+### **BibTeX:**
+```bibtex
+@software{annaki2025journalanalyzer,
+  author = {Annaki, Ihababdelbasset},
+  title = {Journal Quality Analyzer: A comprehensive tool for analyzing academic journal quality using multiple data sources and AI-powered insights},
+  year = {2025},
+  url = {https://github.com/thefledgedhurricane/journal-quality-analyzer},
+  note = {GitHub repository}
+}
+```
+
+### **IEEE Style:**
+```
+I. Annaki, "Journal Quality Analyzer: A comprehensive tool for analyzing academic journal quality using multiple data sources and AI-powered insights," GitHub, 2025. [Online]. Available: https://github.com/thefledgedhurricane/journal-quality-analyzer
+```
+
+**Attribution Note:** While this tool is freely available under the MIT License, we kindly request that users acknowledge its use in their research publications, presentations, or academic work. Your citation helps support continued development and maintenance of this open-source project.
+
 ### Legal Disclaimer
 
 This software is provided for **educational and research purposes only**. The tool:
