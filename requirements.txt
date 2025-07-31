@@ -1,0 +1,22 @@
+# Core Streamlit framework
+streamlit>=1.28.0
+
+# Data processing and analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# HTTP requests and web scraping
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# AI/ML APIs
+google-generativeai>=0.3.0
+
+# File I/O and Excel support
+openpyxl>=3.1.0
+
+# Additional dependencies for robust deployment
+altair>=4.2.0  # For Streamlit charts
+toml>=0.10.2   # For configuration files
+pillow>=9.0.0  # For image processing (favicon support)
+watchdog>=2.1.0  # For file monitoring in development
