@@ -23,7 +23,7 @@ A comprehensive Streamlit application for analyzing academic journal quality usi
 
 1. **Clone and Setup**
    ```bash
-   git clone https://github.com/iannaki/journal-quality-analyzer.git
+   git clone https://github.com/thefledgedhurricane/journal-quality-analyzer.git
    cd journal-quality-analyzer
    pip install -r requirements.txt
    ```
@@ -120,8 +120,8 @@ A comprehensive Streamlit application for analyzing academic journal quality usi
    sudo apt install python3 python3-pip
    
    # Clone repository
-   git clone <your-repo>
-   cd "Journal Finder"
+   git clone https://github.com/thefledgedhurricane/journal-quality-analyzer.git
+   cd journal-quality-analyzer
    
    # Install dependencies
    pip3 install -r requirements.txt
@@ -172,14 +172,7 @@ journal-quality-analyzer/
     └── journal_analysis_*.csv/xlsx
 ```
 
-## 🛠️ Configuration
-
-### Environment Variables
-- `SCOPUS_API_KEY`: Your Elsevier API key
-- `GEMINI_API_KEY`: Your Google Gemini API key
-- `PORT`: Server port (default: 8501)
-
-### Data Sources
+## 📊 Data Sources
 
 **Primary Databases:**
 - **[SCImago Journal & Country Rank](https://www.scimagojr.com/)**: Journal rankings, categories, and bibliometric indicators
@@ -200,6 +193,13 @@ journal-quality-analyzer/
 **Data Usage Disclaimer:**
 This tool is developed for **non-commercial academic research purposes only**. All data sources are used in compliance with their respective terms of service and licensing agreements. No revenue is generated from this tool.
 
+## 🛠️ Configuration
+
+### Environment Variables
+- `SCOPUS_API_KEY`: Your Elsevier API key
+- `GEMINI_API_KEY`: Your Google Gemini API key
+- `PORT`: Server port (default: 8501)
+
 ## 🤝 Contributing & Collaboration
 
 **We welcome contributions from researchers, developers, and data scientists!** This project thrives on community collaboration.
@@ -218,7 +218,7 @@ This tool is developed for **non-commercial academic research purposes only**. A
 #### **Code Contributions:**
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/[username]/journal-quality-analyzer.git
+   git clone https://github.com/thefledgedhurricane/journal-quality-analyzer.git
    cd journal-quality-analyzer
    ```
 
@@ -318,36 +318,7 @@ This software is provided for **educational and research purposes only**. The to
 
 Users are responsible for ensuring their use complies with applicable terms of service and local regulations.
 
-### 🔒 Privacy Policy & API Key Security
 
-**Your API Keys Are Never Stored or Logged:**
-
-- ✅ **Zero Storage**: API keys are never saved to files, databases, or any persistent storage
-- ✅ **No Logging**: Keys are not logged in application logs or error reports
-- ✅ **Session-Only**: Keys exist only in browser memory during your active session
-- ✅ **Direct API Calls**: Keys are used exclusively for real-time API requests to Elsevier/Google
-- ✅ **Open Source Verification**: All code is publicly available for security audit
-- ✅ **No Analytics**: No tracking or analytics services that could capture sensitive data
-
-**Technical Implementation:**
-- Streamlit's `st.text_input(type="password")` ensures keys are masked in UI
-- No caching decorators applied to functions handling API keys
-- Keys are passed as function parameters, not stored as global variables
-- Application restarts clear all memory, including any temporary key storage
-
-**For Deployment Security:**
-- Hosted versions use the same codebase with identical privacy protections
-- No server-side logging of user inputs or API responses containing sensitive data
-- HTTPS encryption protects data in transit
-
-**🤝 Open for Collaboration**: This tool is actively maintained and welcomes contributions from the research and developer community. Whether you're interested in adding new features, improving existing functionality, or enhancing the user experience, your contributions are highly valued!
-
-### Ways to Contribute:
-- 🐛 Report bugs and suggest improvements
-- 💡 Propose new features or data sources
-- 🔧 Submit code improvements and optimizations
-- 📚 Enhance documentation and user guides
-- 🌍 Add support for additional languages or regions
 
 ## 🆘 Support
 
