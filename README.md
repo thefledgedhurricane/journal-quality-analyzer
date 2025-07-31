@@ -260,8 +260,7 @@ This tool is developed for **non-commercial academic research purposes only**. A
 ### 📧 Contact & Support
 
 **Project Maintainer**: Ihababdelbasset ANNAKI  
-**Email**: [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma)  
-**Institution**: Université Mohammed Premier (UMP)
+**Email**: [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma) | [iannaki.developer@gmail.com](mailto:iannaki.developer@gmail.com)
 
 **For Collaboration:**
 - 💬 **General Questions**: Email or [GitHub Discussions](../../discussions)
