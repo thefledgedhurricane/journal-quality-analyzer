@@ -207,10 +207,13 @@ This tool is developed for **non-commercial academic research purposes only**. A
 ### 🚀 How to Contribute
 
 #### **Quick Contributions:**
-- 🐛 **Report Issues**: Found a bug? [Open an issue](../../issues/new)
-- 💡 **Suggest Features**: Have an idea? [Start a discussion](../../discussions)
+- 🐛 **Report Issues**: Found a bug? [Open an issue](https://github.com/thefledgedhurricane/journal-quality-analyzer/issues/new)
+- 💡 **Suggest Features**: Have an idea? [Start a discussion](https://github.com/thefledgedhurricane/journal-quality-analyzer/discussions)
 - 📚 **Improve Documentation**: Fix typos, add examples, or clarify instructions
 - 🌍 **Add Data Sources**: Know of additional journal databases or APIs?
+
+#### **Repository:**
+🔗 **GitHub**: [https://github.com/thefledgedhurricane/journal-quality-analyzer](https://github.com/thefledgedhurricane/journal-quality-analyzer)
 
 #### **Code Contributions:**
 1. **Fork the Repository**
@@ -263,9 +266,9 @@ This tool is developed for **non-commercial academic research purposes only**. A
 **Email**: [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma) | [iannaki.developer@gmail.com](mailto:iannaki.developer@gmail.com)
 
 **For Collaboration:**
-- 💬 **General Questions**: Email or [GitHub Discussions](../../discussions)
-- 🐛 **Bug Reports**: [GitHub Issues](../../issues)
-- 🚀 **Feature Requests**: [GitHub Issues](../../issues) with "enhancement" label
+- 💬 **General Questions**: Email or [GitHub Discussions](https://github.com/thefledgedhurricane/journal-quality-analyzer/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/thefledgedhurricane/journal-quality-analyzer/issues)
+- 🚀 **Feature Requests**: [GitHub Issues](https://github.com/thefledgedhurricane/journal-quality-analyzer/issues) with "enhancement" label
 - 🤝 **Research Partnerships**: Direct email contact
 
 ### 🏆 Contributors
@@ -349,7 +352,7 @@ Users are responsible for ensuring their use complies with applicable terms of s
 ## 🆘 Support
 
 If you encounter issues:
-1. Check the [Issues](../../issues) page
+1. Check the [Issues](https://github.com/thefledgedhurricane/journal-quality-analyzer/issues) page
 2. Verify your API keys are valid
 3. Ensure all dependencies are installed
 4. Check the console for error messages

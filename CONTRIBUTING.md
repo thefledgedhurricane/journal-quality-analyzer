@@ -36,13 +36,13 @@
 ## 🎯 Ways to Contribute
 
 ### 🐛 Bug Reports
-- Use the [issue template](../../issues/new)
+- Use the [issue template](https://github.com/thefledgedhurricane/journal-quality-analyzer/issues/new)
 - Include steps to reproduce
 - Provide error messages and screenshots
 - Mention your OS and Python version
 
 ### 💡 Feature Requests
-- Check [existing issues](../../issues) first
+- Check [existing issues](https://github.com/thefledgedhurricane/journal-quality-analyzer/issues) first
 - Describe the problem you're solving
 - Provide use cases and examples
 - Consider implementation complexity
@@ -136,8 +136,8 @@ docs(readme): update installation instructions
 **Email**: [i.annaki@ump.ac.ma](mailto:i.annaki@ump.ac.ma) | [iannaki.developer@gmail.com](mailto:iannaki.developer@gmail.com)
 
 **Communication Channels**:
-- 💬 [GitHub Discussions](../../discussions) - General questions
-- 🐛 [GitHub Issues](../../issues) - Bug reports and features
+- 💬 [GitHub Discussions](https://github.com/thefledgedhurricane/journal-quality-analyzer/discussions) - General questions
+- 🐛 [GitHub Issues](https://github.com/thefledgedhurricane/journal-quality-analyzer/issues) - Bug reports and features
 - 📧 Email - Research partnerships and complex questions
 
 ## 🏆 Recognition
